@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://mecsys.notion.site/Mechanical-Systems-Forum-1ddd6db7d2508011b79cf032297d399f",
+      "permanent": true
+    }
+  ]
+}
